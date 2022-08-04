@@ -1,4 +1,4 @@
 # django-personal-project
-# Aug 2022 ~
+Aug 2022 ~
 
-# CAKD7
+CAKD7
